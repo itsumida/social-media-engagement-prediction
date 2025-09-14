@@ -45,7 +45,7 @@ To analyze what drives engagement (likes + comments + shares) on social media po
 ![Feature Importance](images/feature-importance.png)
 
 ### Actual vs Predicted
-![Actual vs Predicted](images/actual-vs-predicted.png)
+![Actual vs Predicted](images/actual-vs-predicted-engagement.png)
 
 ---
 
