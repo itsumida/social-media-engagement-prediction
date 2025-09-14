@@ -47,13 +47,3 @@ To analyze what drives engagement (likes + comments + shares) on social media po
 ### Actual vs Predicted
 ![Actual vs Predicted](images/actual-vs-predicted-engagement.png)
 
----
-
-## 🚀 Next Steps
-- Scale up with larger datasets  
-- Test advanced feature engineering (hashtags, captions, sentiment)  
-- Compare performance with deep learning models  
-
----
-
-## 📂 Repository Structure
