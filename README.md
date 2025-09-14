@@ -34,8 +34,18 @@ To analyze what drives engagement (likes + comments + shares) on social media po
 ---
 
 ## 🖼️ Visuals
-![Engagement by Platform](images/engagement_by_platform.png)  
 
+### Engagement by Platform
+![Engagement by Platform](images/engagement-by-platforms.png)
+
+### Average Engagement
+![Average Engagement](images/avg-engagement.png)
+
+### Feature Importance (Linear Regression)
+![Feature Importance](images/feature-importance.png)
+
+### Actual vs Predicted
+![Actual vs Predicted](images/actual-vs-predicted.png)
 
 ---
 
